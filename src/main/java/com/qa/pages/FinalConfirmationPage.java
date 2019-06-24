@@ -20,6 +20,7 @@ public class FinalConfirmationPage extends TestBase {
 	
 	public void branchTest() {
 		System.out.println("hello test");
+		System.out.println("testing again");
 	}
 	
 	public boolean confirmmationDetails() {

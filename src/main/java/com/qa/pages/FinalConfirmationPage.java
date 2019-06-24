@@ -18,8 +18,13 @@ public class FinalConfirmationPage extends TestBase {
 		// TODO Auto-generated constructor stub
 	}
 	
+	public void branchTest() {
+		System.out.println("hello test");
+	}
+	
 	public boolean confirmmationDetails() {
 		boolean msg= confirmMsg.isDisplayed();
 		return msg;
+		
 	}
 }
